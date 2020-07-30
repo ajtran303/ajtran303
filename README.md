@@ -1,6 +1,6 @@
-# 🔮 AJ Tran - @ajtran303
+# 🔮 AJ Tran - Back-End Engineer
 
-Howdy, y'all! I'm AJ, a Junior Back-End Engineer. 
+Howdy, y'all!  
 
 I am a student at the Turing School of Software and Design. 
 
