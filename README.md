@@ -3,10 +3,15 @@
 Howdy, y'all! I'm AJ, a Junior Back-End Engineer. 
 
 I am a current student at the Turing School of Software and Design.
+I'm looking for opportunities to work after graduating in November 2020!
+
+Besides my school projects, I’m currently working on:
+- Building personal web pages for artist entrepreneurs in my community
+- Procedurally generating a Gothic Novel to submit to [NaNoGenMo 2020](https://nanogenmo.github.io/)
 
 ### How I became a software engineer:
 
-In 2016, I decided to learn a new skill set so I could change careers and stop working in restaurants. I started by learning how to alter the appearance of a web page. I spent approximately 3 years studying on my own by reading books, watching tutorial videos, and going to coding workshops. I took notes and wrote command line utilities to procedurally generate art.
+In 2016, I decided to learn a new skill set so I could change careers and stop working in restaurants. I started by learning how to alter the appearance of a web page. I spent approximately 3 years studying on my own by reading books, watching tutorial videos, and going to coding workshops. I took notes and wrote my first programs: command line utilities to procedurally generate art.
 
 In 2019, I made my first step out of restaurants and into software development by becoming a coding instructor. My students were from grades K-6. I taught in physical and virtual classrooms. The leadership and training skills that I honed in the food and beverages industry definitely carried over to working with young children!
 
