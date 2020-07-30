@@ -3,6 +3,7 @@
 Howdy, y'all! I'm AJ, a Junior Back-End Engineer. 
 
 I am a current student at the Turing School of Software and Design.
+
 I'm looking for opportunities to work after graduating in November 2020!
 
 Besides my school projects, I’m currently working on:
