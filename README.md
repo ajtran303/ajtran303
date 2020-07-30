@@ -1,4 +1,4 @@
-# AJ Tran - @ajtran303
+# 🔮 AJ Tran - @ajtran303
 
 Howdy, y'all! I'm AJ, a Junior Back-End Engineer. 
 
