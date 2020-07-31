@@ -1,5 +1,4 @@
-# 🔮 AJ Tran - Back-End Engineer
-## Open To Work 
+# 🔮 AJ Tran - Back-End Engineer - Open To Work 
 
 Howdy, y'all! I'm AJ! 
 
@@ -15,8 +14,8 @@ Howdy, y'all! I'm AJ!
 - Web Accessibility
 - Natural Language Processing
 - Coding for Digital Art
-- Gothic literature
-- Goth subculture
+- Gothic Literature
+- Human Languages
 
 ### 📫 Contact me!
 
