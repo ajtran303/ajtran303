@@ -4,7 +4,8 @@ Howdy, y'all! I'm AJ!
 
 ### Current projects:
 
-- :heavy_check_mark: Deploying database-backed web applications with Ruby
+- :books: Studying at the Turing School of Software and Design (Graduating in November 2020)
+- :heavy_check_mark: Building database-backed web applications with Ruby
 - :art: Building personal web pages for entrepreneurs in my community
 - :bat: Procedurally generating a Gothic Novel to submit to [NaNoGenMo 2020](https://nanogenmo.github.io/)
 
