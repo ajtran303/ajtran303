@@ -1,6 +1,6 @@
 ## 🔮 AJ Tran - Back-End Engineer - Available for Hire
 
-I am formerly a teacher (coding, ESL), coach (speech and debate) and restaurant worker (front and back of house aka fullstack).
+I am formerly a teacher (coding, ESL), coach (speech and debate) and restaurant worker (front and back aka fullstack).
 
 ### Current projects:
 
