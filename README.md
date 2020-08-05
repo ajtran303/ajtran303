@@ -1,7 +1,7 @@
 ## 🔮 AJ Tran - Back-End Engineer - Available for Hire
 
 ```ruby
-my_relevant_experience = {teacher: ["coding", "English as a Second Language"], coach: "Policy Debate", restaurant_worker: "fullstack"} 
+my_experience = {teacher: ["coding", "ESL"], coach: "Debate", restaurant_worker: "fullstack"}  
 ```
 
 ### Current projects:
