@@ -1,7 +1,5 @@
 # 🔮 AJ Tran - Back-End Engineer - Available for Hire
 
-Howdy, y'all! I'm AJ! 
-
 ### Current projects:
 
 - :books: Studying at the Turing School of Software and Design (Graduating in November 2020)
