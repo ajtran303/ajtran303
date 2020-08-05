@@ -13,7 +13,7 @@ experience = {teacher: ["coding", "ESL"], coach: "Debate", restaurant_worker: fu
 ### Current projects:
 
 - :books: Studying at the Turing School of Software and Design (Graduating in November 2020)
-- :heavy_check_mark: Building database-backed applications for businesses
+- :heavy_check_mark: Building database-backed web applications with Ruby on Rails
 - :art: Building personal web pages for entrepreneurs in my community
 - :bat: Procedurally generating a Gothic Novel to submit to [NaNoGenMo 2020](https://nanogenmo.github.io/)
 
