@@ -1,4 +1,4 @@
-# 🔮 AJ Tran - Back-End Engineer - Open To Work 
+# 🔮 AJ Tran - Back-End Engineer - Available for Hire
 
 Howdy, y'all! I'm AJ! 
 
