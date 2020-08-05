@@ -1,4 +1,6 @@
-# 🔮 AJ Tran - Back-End Engineer - Available for Hire
+## 🔮 AJ Tran - Back-End Engineer - Available for Hire
+
+I am formerly a teacher (coding, ESL), coach (speech and debate) and restaurant worker (front and back of house aka fullstack).
 
 ### Current projects:
 
@@ -6,15 +8,6 @@
 - :heavy_check_mark: Building database-backed web applications with Ruby
 - :art: Building personal web pages for entrepreneurs in my community
 - :bat: Procedurally generating a Gothic Novel to submit to [NaNoGenMo 2020](https://nanogenmo.github.io/)
-
-### Interests:
-
-- Learning new things & Teaching what I learned!
-- Web Accessibility
-- Natural Language Processing
-- Coding for Digital Art
-- Gothic Literature
-- Human Languages
 
 ### 📫 Contact me!
 
