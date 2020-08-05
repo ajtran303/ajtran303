@@ -11,5 +11,6 @@ I am formerly a teacher (coding, ESL), coach (speech and debate) and restaurant 
 
 ### 📫 Contact me!
 
+- Email: <ajtrandev@gmail.com> 
 - Twitter: https://twitter.com/haograms
 - LinkedIn: https://www.linkedin.com/in/ajtran-dev/
