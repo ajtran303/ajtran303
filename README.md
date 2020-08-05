@@ -1,11 +1,13 @@
 ## 🔮 AJ Tran - Back-End Engineer - Available for Hire
 
 ```ruby
+# I am on a relentless pursuit of knowledge. Ask me anything. I will find out.
+
 technologies = %w(Ruby Rails PostgreSQL HTML5 CSS JavaScript/ES6)
 
 interests = ["the outdoors", "theater", "playing guitar", "gothic literature"]
 
-experience = {teacher: ["coding", "ESL"], coach: "Debate", restaurant_worker: ["fullstack", ["front", "back"]]}  
+experience = {teacher: ["coding", "ESL"], coach: "Debate", restaurant_worker: "fullstack" || ("front" && "back") }  
 ```
 
 ### Current projects:
