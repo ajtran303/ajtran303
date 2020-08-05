@@ -1,6 +1,8 @@
-## 🔮 AJ Tran - Back-End Engineer - Available for Hire
+## 🔮 AJ Tran (he/him) - Back-End Engineer - Available for Hire
 
 ```ruby
+values = ["engages with community", "practices inclusion and diversity", "wears many hats"]
+
 technologies = %w(Ruby Rails PostgreSQL HTML5 CSS JavaScript/ES6)
 
 interests = ["the outdoors", "theater", "playing guitar", "gothic literature"]
