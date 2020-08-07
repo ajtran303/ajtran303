@@ -23,4 +23,4 @@ experience = {teacher: ["coding", "ESL"], coach: "Debate", restaurant_worker: fu
 - Twitter: https://twitter.com/haograms
 - LinkedIn: https://www.linkedin.com/in/ajtran-dev/
 
-[![AJ's github stats](https://github-readme-stats.vercel.app/api?username=ajtran303&hide=stars)](https://github.com/ajtran303/github-readme-stats)
+[![AJ's github stats](https://github-readme-stats.vercel.app/api?username=ajtran303&hide=stars)](https://github.com/ajtran303/)
