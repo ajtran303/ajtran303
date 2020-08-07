@@ -1,5 +1,7 @@
 ## 🔮 AJ Tran (he/him) - Back-End Engineer - Available for Hire
 
+[![AJ's github stats](https://github-readme-stats.vercel.app/api?username=ajtran303&hide=stars)](https://github.com/ajtran303/)
+
 ```ruby
 values = ["engages with community", "practices inclusion and diversity", "wears many hats"]
 
@@ -22,5 +24,3 @@ experience = {teacher: ["coding", "ESL"], coach: "Debate", restaurant_worker: fu
 - Email: <ajtrandev@gmail.com> 
 - Twitter: https://twitter.com/haograms
 - LinkedIn: https://www.linkedin.com/in/ajtran-dev/
-
-[![AJ's github stats](https://github-readme-stats.vercel.app/api?username=ajtran303&hide=stars)](https://github.com/ajtran303/)
