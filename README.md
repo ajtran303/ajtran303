@@ -1,6 +1,6 @@
 ## 🔮 AJ Tran (he/him) - Back-End Engineer - Available for Hire
 
-[!(https://github-readme-stats.vercel.app/api?username=ajtran303&hide=stars)](https://github.com/ajtran303/)
+[![x](https://github-readme-stats.vercel.app/api?username=ajtran303&hide=stars)](https://github.com/ajtran303/)
 
 ### Current projects:
 
