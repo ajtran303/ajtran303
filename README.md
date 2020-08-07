@@ -17,7 +17,7 @@ experience = {teacher: ["coding", "ESL"], coach: "Debate", restaurant_worker: fu
 - :art: Building personal web pages for entrepreneurs in my community
 - :bat: Procedurally generating a Gothic Novel to submit to [NaNoGenMo 2020](https://nanogenmo.github.io/)
 
-[![AJ's github stats](https://github-readme-stats.vercel.app/api?username=ajtran303)](https://github.com/ajtran303/github-readme-stats)
+[![AJ's github stats](https://github-readme-stats.vercel.app/api?username=ajtran303&hide=stars)](https://github.com/ajtran303/github-readme-stats)
 
 ### 📫 Contact me!
 
