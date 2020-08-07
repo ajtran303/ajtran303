@@ -2,16 +2,6 @@
 
 [![AJ's github stats](https://github-readme-stats.vercel.app/api?username=ajtran303&hide=stars)](https://github.com/ajtran303/)
 
-```ruby
-values = ["engages with community", "practices inclusion and diversity", "wears many hats"]
-
-technologies = %w(Ruby Rails PostgreSQL HTML5 CSS JavaScript/ES6 TwitterAPI Python/NLTK)
-
-interests = ["the outdoors", "theater", "playing guitar", "gothic literature"]
-
-experience = {teacher: ["coding", "ESL"], coach: "Debate", restaurant_worker: fullstack ||= ["front", "back"]}  
-```
-
 ### Current projects:
 
 - :books: Studying at the Turing School of Software and Design (Graduating in November 2020)
@@ -24,3 +14,13 @@ experience = {teacher: ["coding", "ESL"], coach: "Debate", restaurant_worker: fu
 - Email: <ajtrandev@gmail.com> 
 - Twitter: https://twitter.com/haograms
 - LinkedIn: https://www.linkedin.com/in/ajtran-dev/
+
+```ruby
+values = ["engages with community", "practices inclusion and diversity", "wears many hats"]
+
+technologies = %w(Ruby Rails PostgreSQL HTML5 CSS JavaScript/ES6 TwitterAPI Python/NLTK)
+
+interests = ["the outdoors", "theater", "playing guitar", "gothic literature"]
+
+experience = {teacher: ["coding", "ESL"], coach: "Debate", restaurant_worker: fullstack ||= ["front", "back"]}  
+```
