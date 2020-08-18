@@ -20,7 +20,7 @@ values = ["engages with community", "practices inclusion and diversity", "wears 
 
 technologies = %w(Ruby Rails PostgreSQL HTML5 CSS JavaScript/ES6)
 
-interests = ["the outdoors", "theater", "playing guitar", "gothic literature"]
+interests = ["Natural Language Processing", "Procedural Generation", "Gothic Programming"]
 
 experience = {teacher: ["coding", "ESL"], coach: "Debate", restaurant_worker: fullstack ||= ["front", "back"]}  
 ```
