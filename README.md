@@ -1,7 +1,6 @@
-## 🔮 AJ Tran (he/him) - Back-End Engineer - Available for Hire
 ![everygothheader](https://user-images.githubusercontent.com/31839316/90707716-73bbb380-e255-11ea-836b-3394cc059267.png)
 
-[![AJ Tran's github stats](https://github-readme-stats.vercel.app/api?username=ajtran303&hide=stars)](https://github.com/ajtran303)
+## 🔮 AJ Tran (he/him) - Back-End Engineer - Available for Hire
 
 ### Current projects:
 
@@ -9,6 +8,8 @@
 - :heavy_check_mark: Building database-backed web applications and RESTful APIs with Ruby on Rails
 - :art: Building personal web pages for entrepreneurs in my community
 - :bat: Procedurally generating a Gothic Novel for [NaNoGenMo 2020](https://nanogenmo.github.io/)
+
+[![AJ Tran's github stats](https://github-readme-stats.vercel.app/api?username=ajtran303&hide=stars)](https://github.com/ajtran303)
 
 ### 📫 Contact me!
 
