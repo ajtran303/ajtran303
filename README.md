@@ -14,6 +14,7 @@
 - Email: <ajtrandev@gmail.com> 
 - Twitter: https://twitter.com/haograms
 - LinkedIn: https://www.linkedin.com/in/ajtran-dev/
+<!-- 
 
 ```ruby
 values = ["engages with community", "practices inclusion and diversity", "wears many hats"]
@@ -24,4 +25,5 @@ interests = ["Natural Language Processing", "Procedural Generation", "Gothic Pro
 
 experience = {teacher: ["coding", "ESL"], coach: "Debate", restaurant_worker: fullstack ||= ["front", "back"]}  
 ```
+-->
 ![everygothheader](https://user-images.githubusercontent.com/31839316/90707716-73bbb380-e255-11ea-836b-3394cc059267.png)
