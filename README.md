@@ -1,5 +1,3 @@
-![everygothheader](https://user-images.githubusercontent.com/31839316/90707716-73bbb380-e255-11ea-836b-3394cc059267.png)
-
 ## 🔮 AJ Tran (he/him) - Back-End Engineer - Available for Hire
 
 ### Current projects:
@@ -26,3 +24,4 @@ interests = ["Natural Language Processing", "Procedural Generation", "Gothic Pro
 
 experience = {teacher: ["coding", "ESL"], coach: "Debate", restaurant_worker: fullstack ||= ["front", "back"]}  
 ```
+![everygothheader](https://user-images.githubusercontent.com/31839316/90707716-73bbb380-e255-11ea-836b-3394cc059267.png)
