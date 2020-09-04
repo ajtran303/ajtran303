@@ -16,6 +16,7 @@
 - Twitter: https://twitter.com/haograms
 - LinkedIn: https://www.linkedin.com/in/ajtran-dev/
 
+<!-- 
 ```ruby
 values = ["engages with community", "practices inclusion and diversity", "wears many hats"]
 
@@ -25,3 +26,4 @@ interests = ["Natural Language Processing", "Procedural Generation", "Gothic Pro
 
 experience = {teacher: ["coding", "ESL"], coach: "Debate", restaurant_worker: fullstack ||= ["front", "back"]}  
 ```
+-->
