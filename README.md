@@ -13,4 +13,4 @@
 
 📫 Email me! ajtrandev@gmail.com
 
-![AJ's github stats](https://github-readme-stats.vercel.app/api?username=ajtran&show_icons=true&theme=synthwave)
+![AJ's github stats](https://github-readme-stats.vercel.app/api?username=ajtran303&show_icons=true&theme=synthwave)
