@@ -5,8 +5,6 @@
 
 ✔️ I build database-backed, full stack web applications
 
-✔️ I make web pages for Queer BIPOC entrepreneurs
-
 ✔️ I teach free web development classes to the Gothic community
 
 ✔️ I offer computer programming mentorship to anybody just starting out
@@ -14,3 +12,5 @@
 ❓ Are you just starting out and looking for mentorship?
 
 📫 Email me! ajtrandev@gmail.com
+
+![AJ's github stats](https://github-readme-stats.vercel.app/api?username=ajtran&show_icons=true&theme=synthwave)
