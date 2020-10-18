@@ -1,4 +1,4 @@
-## 🔮 AJ Tran (he/him) - Back-End Engineer - Available for Hire!
+## 🔮 AJ Tran (he/him) - Back-End Engineer
 
 ![decorative](https://user-images.githubusercontent.com/31839316/96356889-ec9e8680-10b1-11eb-99b5-7a196827eecb.png)
 
