@@ -1,6 +1,4 @@
-## 🔮 AJ Tran (he/him) - Back-End Engineer - Available for Hire
-
-🔮 I am a software developer on a relentless pursuit of knowledge with a background in education and leadership
+## 🔮 AJ Tran (he/him) - Back-End Engineer - Available for Hire!
 
 ![decorative](https://user-images.githubusercontent.com/31839316/96356889-ec9e8680-10b1-11eb-99b5-7a196827eecb.png)
 
