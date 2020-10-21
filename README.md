@@ -2,7 +2,7 @@
 
 Howdy, I am AJ! My pronouns are he / they. 
 
-Languages: Ruby, JavaScript and Python
+Languages: Ruby, JavaScript, Python, HTML/CSS
 
 Frameworks: Ruby on Rails, Sinatra, Express, and Flask
 
