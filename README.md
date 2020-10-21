@@ -6,7 +6,7 @@ I thrive at the intersection of science, art, and humanities! Right now I host G
 
 ### I am looking for a new job
 
-I'm looking for new roles! I am a back-end software developer who works with Ruby, JavaScript and Python.
+I'm looking for new roles! I am a back-end software developer who can work in Ruby, JavaScript and Python. The frameworks I have used are: Ruby on Rails, Sinatra, Express, and Flask. I am currently seeking engineering positions as well as instructional roles.
 
 [Find me on LinkedIn](https://www.linkedin.com/in/ajtran-dev/) 
 
