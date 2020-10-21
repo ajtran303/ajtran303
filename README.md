@@ -13,12 +13,7 @@ I thrive at the intersection of science, art, and humanities! Right now I host G
 
 As a person with a love for finding and sharing knowledge, I am seeking roles in the fields of Education and Communication. As an engineer with a prior discipline in culinary arts, I fit in perfectly with cross-functional teams whose core value is [PRAXIS](https://www.wordnik.com/words/praxis)!
 
-
-[Find me 
-
-[Send me an email](mailto:ajtrandev@gmail.com)
-
-
+[Email me if you want me on your team!](mailto:ajtrandev@gmail.com)
 
 ![decorative](https://user-images.githubusercontent.com/31839316/96356889-ec9e8680-10b1-11eb-99b5-7a196827eecb.png)
 
