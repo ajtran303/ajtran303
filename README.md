@@ -1,6 +1,9 @@
 ## 🔮 AJ Tran - Back-End Engineer 
 
-Howdy, I am AJ. My pronouns are he / they. 
+Howdy, I am AJ! My pronouns are he / they. 
+
+Languages: Ruby, JavaScript and Python
+Frameworks: Ruby on Rails, Sinatra, Express, and Flask
 
 I thrive at the intersection of science, art, and humanities! Right now I host Gothic-themed coding workshops and teach kids how to code. 
 
@@ -8,7 +11,7 @@ I thrive at the intersection of science, art, and humanities! Right now I host G
 
 ### I am looking for a new job
 
-I'm looking for new roles! I am a back-end software developer who can work in Ruby, JavaScript and Python. The frameworks I have used are: Ruby on Rails, Sinatra, Express, and Flask. As a person with a love for finding and sharing knowledge, I am seeking roles in the fields of Education and Communication. As an engineer with a prior discipline in culinary arts, I fit in perfectly with cross-functional teams whose core value is [PRAXIS](https://www.wordnik.com/words/praxis)!
+As a person with a love for finding and sharing knowledge, I am seeking roles in the fields of Education and Communication. As an engineer with a prior discipline in culinary arts, I fit in perfectly with cross-functional teams whose core value is [PRAXIS](https://www.wordnik.com/words/praxis)!
 
 
 [Find me 
