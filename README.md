@@ -2,10 +2,6 @@
 
 Howdy, I am AJ! My pronouns are he / they. 
 
-Languages: Ruby, JavaScript, Python, HTML/CSS
-
-Frameworks: Ruby on Rails, Sinatra, Express, and Flask
-
 I thrive at the intersection of science, art, and humanities! 
 
 Right now I host Gothic-themed coding workshops and teach kids how to code. 
