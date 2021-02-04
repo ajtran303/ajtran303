@@ -1,4 +1,4 @@
-## 🔮 AJ Tran
+## 🔮 AJ Tran - Goth Dev
 
 Howdy, I am AJ! My pronouns are he / they. 
 
