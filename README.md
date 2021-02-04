@@ -1,18 +1,14 @@
-## 🔮 AJ Tran - Back-End Engineer 
+## 🔮 AJ Tran
 
 Howdy, I am AJ! My pronouns are he / they. 
 
 I thrive at the intersection of science, art, and humanities! 
 
-[Read about my professional background on LinkedIn](https://www.linkedin.com/in/ajtran-dev/)  
+[Read about my professional background on LinkedIn](https://www.linkedin.com/in/ajtran-dev/)
 
-### I am looking for a new job
+As a person with a love for finding and sharing knowledge, I love [PRAXIS](https://www.wordnik.com/words/praxis)!
 
-As a person with a love for finding and sharing knowledge, I am seeking roles in the fields of Education and Communication. As an engineer with a prior discipline in culinary arts, I fit in perfectly with cross-functional teams whose core value is [PRAXIS](https://www.wordnik.com/words/praxis)!
-
-[Email me if you want me on your team!](mailto:ajtrandev@gmail.com)
-
-[I am also on GitLab.](https://gitlab.com/gothic_programmer)
+[I am also on GitLab](https://gitlab.com/gothic_programmer)
 
 ![decorative](https://user-images.githubusercontent.com/31839316/96356889-ec9e8680-10b1-11eb-99b5-7a196827eecb.png)
 
