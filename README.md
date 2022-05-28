@@ -1,4 +1,4 @@
-## 🔮 AJ Tran
+## 🔮 Hào AJ Tran
 
 Howdy, I am AJ! My pronouns are they / them. 
 
