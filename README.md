@@ -1,6 +1,6 @@
-## 🔮 AJ Tran - Goth Dev
+## 🔮 AJ Tran
 
-Howdy, I am AJ! My pronouns are he / they. 
+Howdy, I am AJ! My pronouns are they / them. 
 
 I thrive at the intersection of science, art, and humanities! 
 
@@ -8,7 +8,7 @@ I thrive at the intersection of science, art, and humanities!
 
 As a person with a love for finding and sharing knowledge, I love [PRAXIS](https://www.wordnik.com/words/praxis)!
 
-[I am also on GitLab](https://gitlab.com/occvlt)
+<!-- [I am also on GitLab](https://gitlab.com/occvlt) -->
 
 ![decorative](https://user-images.githubusercontent.com/31839316/96356889-ec9e8680-10b1-11eb-99b5-7a196827eecb.png)
 
