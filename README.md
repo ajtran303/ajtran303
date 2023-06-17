@@ -4,7 +4,7 @@ Howdy, I am AJ! My pronouns are they / them.
 
 I thrive at the intersection of science, art, and humanities! 
 
-[Check out my website!](https://ajtran303.github.io/)
+<!-- [Check out my website!](https://ajtran303.github.io/) -->
 
 [Read about my professional background on LinkedIn](https://www.linkedin.com/in/ajtran-dev/)
 
