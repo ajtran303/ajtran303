@@ -2,7 +2,13 @@
 
 ## 🔮 AJ Tran
 
-Howdy, I am AJ (they/them). I am a software engineer, coding instructor, and performing artist. I thrive at the intersection of science, art, and humanities! As a person with a love for finding and sharing knowledge, I love [PRAXIS](https://www.wordnik.com/words/praxis)!
+Howdy, I am AJ (they/them). 
+
+I am a software engineer, coding instructor, and performing artist. 
+
+I thrive at the intersection of science, art, and humanities! 
+
+I love [PRAXIS](https://www.wordnik.com/words/praxis)!
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/ajtran-dev/)
 
