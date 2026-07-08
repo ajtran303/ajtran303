@@ -1,8 +1,6 @@
 ![decorative](https://user-images.githubusercontent.com/31839316/96356889-ec9e8680-10b1-11eb-99b5-7a196827eecb.png)
 
-## 🔮 AJ Tran
-
-Howdy, I am AJ (they/them). 
+## 🔮 AJ Tran / Sev N
 
 I am a software engineer, coding instructor, and performing artist. 
 
@@ -10,7 +8,7 @@ I thrive at the intersection of science, art, and humanities!
 
 I love [PRAXIS](https://www.wordnik.com/words/praxis)!
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/ajtran-dev/)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/ajtrandev/)
 
 <!-- [I am also on GitLab](https://gitlab.com/occvlt)
 
